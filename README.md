@@ -5,6 +5,11 @@
 - full colour review by desiger, with a view to incorporate themes
 - rexamine icons and icon libraries. Evaluate noun project for inclusion
 
+## TutorsOffline
+
+- Migrate tutors-html to use Tailwind + styles equivalent to TutorsSvelte
+- Exlore Electron based TutorsSvelte as alternative to above
+- 
 ## Authentication
 
 - consider firebase auth as replacement for auth0
