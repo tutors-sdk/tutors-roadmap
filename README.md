@@ -1,5 +1,9 @@
 # tutors-roadmap
 
+## Keys
+
+- incorporate API keys into vite environment variables
+
 ## UX
 
 - full colour review by desiger, with a view to incorporate themes
